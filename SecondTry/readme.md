@@ -10,3 +10,4 @@ The second try was fully designed and printed. Total 15 parts need to be printed
 - motormount    x1
 
 <img src="parts_photo.jpg" height="600"/></a>
+<img src="rotatevideo.gif" height="600"/></a>
