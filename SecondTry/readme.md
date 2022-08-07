@@ -9,5 +9,5 @@ The second try was fully designed and printed. Total 15 parts need to be printed
 - 50 teeth gear x1
 - motormount    x1
 
-<img src="parts_photo.jpg" height="600"/></a>
-<img src="rotatevideo.gif" height="600"/></a>
+<img src="parts_photo.jpg" width="600"/></a> <br />
+<img src="rotatevideo.gif" width="600"/></a>
